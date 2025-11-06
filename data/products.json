@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Shampoing réparateur",
+    "description": "Pour cheveux abîmés",
+    "price": 19.90,
+    "stock": 30,
+    "category": "shampoing"
+  },
+  {
+    "id": 2,
+    "title": "Shampoing hydratant",
+    "description": "Pour cheveux secs",
+    "price": 18.50,
+    "stock": 25,
+    "category": "shampoing"
+  },
+  {
+    "id": 3,
+    "title": "Après-shampoing nourrissant",
+    "description": "Pour cheveux fragiles",
+    "price": 16.90,
+    "stock": 20,
+    "category": "apres-shampoing"
+  },
+  {
+    "id": 4,
+    "title": "Masque capillaire",
+    "description": "Répare et protège",
+    "price": 22.00,
+    "stock": 15,
+    "category": "soin"
+  },
+  {
+    "id": 5,
+    "title": "Huile cheveux",
+    "description": "Nourrit en profondeur",
+    "price": 24.90,
+    "stock": 10,
+    "category": "huile"
+  },
+  {
+    "id": 6,
+    "title": "Spray démêlant",
+    "description": "Facilite le coiffage",
+    "price": 14.50,
+    "stock": 18,
+    "category": "soin"
+  },
+  {
+    "id": 7,
+    "title": "Shampoing antipelliculaire",
+    "description": "Pour cuir chevelu sensible",
+    "price": 20.00,
+    "stock": 22,
+    "category": "shampoing"
+  },
+  {
+    "id": 8,
+    "title": "Crème coiffante",
+    "description": "Pour cheveux bouclés",
+    "price": 17.90,
+    "stock": 12,
+    "category": "coiffant"
+  },
+  {
+    "id": 9,
+    "title": "Gel fixation forte",
+    "description": "Pour coiffures structurées",
+    "price": 15.00,
+    "stock": 14,
+    "category": "coiffant"
+  },
+  {
+    "id": 10,
+    "title": "Sérum brillance",
+    "description": "Apporte éclat et douceur",
+    "price": 21.50,
+    "stock": 16,
+    "category": "soin"
+  }
+]
